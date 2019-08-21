@@ -1,3 +1,6 @@
 [submodule "angular_app"]
 	path = angular_app
 	url = https://github.com/RoshanTanisha/angular_app
+[submodule "laravel_app"]
+	path = laravel_app
+	url = https://github.com/RoshanTanisha/laravel_app
